@@ -1,0 +1,15 @@
+/* #mainTitleBox {
+    background-image: url('../img/mercedes_van_2.png'); 
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-size: contain;
+} */
+#mainTitle {color: darkviolet;}
+
+.carousel-caption h3,.carousel-caption p {
+    text-shadow: 
+        -2px -2px 3px #000, 
+        2px -2px 3px #000, 
+        -2px 2px 3px #000, 
+        2px 2px 3px #000;
+}
